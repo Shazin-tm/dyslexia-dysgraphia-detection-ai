@@ -2,6 +2,18 @@
 
 A comprehensive Django-based system for detecting dyslexia/dysgraphia and providing interactive training exercises for children.
 
+📄 **Accepted for oral presentation at HUMAN 2026** — 4th Doctoral Symposium on Human Centered Computing (Kolkata, India, hybrid, March 28–29, 2026), with potential publication in Springer's *Lecture Notes in Networks and Systems* (Scopus indexed).
+
+## 👥 Team
+
+Final year B.Tech project — Computer Science and Design, Vimal Jyothi Engineering College, Kannur, Kerala
+Supervised by Ms. Anju Ashokan
+
+- Anugrah Suresh
+- Jamsheera P V
+- Niranj
+- **Shazin T M**
+
 ## 🚀 Features
 
 ### 📊 Data Collection
@@ -234,3 +246,10 @@ For support and questions:
 ---
 
 **Built with ❤️ for helping children with dyslexia and dysgraphia**
+
+
+## 📚 Publication
+
+**"Early Dyslexia and Dysgraphia Detection and Training using Deep Learning"**
+Paper ID 105 — HUMAN 2026, 4th Doctoral Symposium on Human Centered Computing
+
